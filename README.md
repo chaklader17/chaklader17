@@ -24,9 +24,49 @@
 > Multimodal detection system using CNN (ResNet50) for video frames and RNN (LSTM) for audio spectrograms. Includes FFmpeg-based preprocessing, prediction logging, and final verdict generation.
 
 ### 🔹 OfficeSync – Smart Office Management Platform  
-> Web-based office automation app with schedule management, role-based access, task tracking, and internal announcements.  
-> Built with:  
-> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="20" /> Node.js / <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="20" /> Django / <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="20" /> Express.js / <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="20" /> Flask  
-> <br/>
-> Databases:  
-> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="20" /> MongoDB / <img src="http
+> Web-based office automation app with schedule management, role-based access, task tracking, and internal announcements. Built with Node.js/Django, SQL/NoSQL, and modern frontend frameworks.
+
+---
+
+## 🛠️ Languages & Tools
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" />
+</p>
+
+## ➕ More Technologies & Tools
+
+<p align="left">
+  <!-- Add more icons here -->
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chaklader17&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaklader17&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 📫 Contact Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/atique-shahrier-chaklader-942903372/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" />
+  </a>
+  <a href="mailto:aschaklader@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/chaklader17" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" />
+  </a>
+</p>
