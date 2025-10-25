@@ -9,8 +9,8 @@
 ## 🧠 About Me
 
 - 🎓 Final-year CSE student at North South University  
-- 🤖 Passionate about building intelligent, scalable systems using AI, ML, and DevOps  
-- 🧠 Experienced with CNN/RNN, deepfake detection, CI/CD, Docker, AWS, Ansible & Prometheus  
+- 🤖 Passionate about building intelligent, scalable systems using AI, ML.
+- 🧠 Experienced with CNN/RNN, deepfake detection, Python.  
 - 🌐 Interested in the intersection of technology, trading, and financial systems  
 
 ---
