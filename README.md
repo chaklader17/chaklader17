@@ -1,6 +1,6 @@
 <<!-- Typing SVG Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1AF7FF&center=true&vCenter=true&width=500&lines=Hi+there+I'm+Chaklader+Digonto+👋;AI+%7C+DevOps+Enthusiast;Deep+Learning+Researcher;Forex+%26+Financial+Markets+Learner;Always+learning%2C+always+building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1AF7FF&center=true&vCenter=true&width=500&lines=Hi+there+I'm+Atique+Shahrier+Chaklader+👋;AI+%7C+DevOps+Enthusiast;Deep+Learning+Researcher;Forex+%26+Financial+Markets+Learner;Always+learning%2C+always+building" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -73,21 +73,6 @@ TensorFlow • PyTorch • FFmpeg • SQL/NoSQL • Bash • OpenCV • Postman
 
 ---
 
-## 🔥 GitHub Streaks (Dark Mode)
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=chaklader17&theme=tokyonight" />
-</p>
-
----
-
-## 📈 Contribution Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chaklader17&theme=tokyo-night" />
-</p>
-
----
 
 ## 📫 Connect With Me
 
