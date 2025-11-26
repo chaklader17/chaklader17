@@ -37,13 +37,20 @@ Includes FFmpeg preprocessing, prediction logs & final verdict generator.
 
 ---
 
-### 🔹 OfficeSync – Smart Office Management Platform  
+### 🔹 [OfficeSync – Smart Office Management Platform](https://github.com/chaklader17/OfficeSync)  
 Web-based platform for:  
 ✔ Employee scheduling  
 ✔ Admin role-based system  
 ✔ Announcements & task automation  
 Built with **Node.js/Django + SQL/NoSQL + modern frontend tech**.
 
+---
+### 🔹 [EduTrack — Modern Academic Management for NSU](https://github.com/chaklader17/EDUTrack)  
+Web-based platform for:
+✔ Student performance tracking
+✔ Attendance & course management
+✔ Automated reports and analytics
+Built with Django/Node.js + SQL + modern frontend frameworks.
 ---
 
 ## 🛠️ Languages & Tools
@@ -62,16 +69,6 @@ Built with **Node.js/Django + SQL/NoSQL + modern frontend tech**.
 ### ➕ Additional Tools  
 TensorFlow • PyTorch • FFmpeg • SQL/NoSQL • Bash • OpenCV • Postman  
 
----
-
-## 📊 GitHub Stats (Dark Mode + Working)
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=chaklader17&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaklader17&layout=compact&theme=tokyonight" />
-</p>
-
----
 
 
 ## 📫 Connect With Me
