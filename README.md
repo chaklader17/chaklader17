@@ -11,7 +11,7 @@
 
 ---
 
-## 🧠 About Me
+##  About 
 
 - 🎓 Final-year CSE student at **North South University**  
 - 🤖 Special interest in **AI, ML, Deepfake Detection, CNN/RNN**, and computer vision  
@@ -21,7 +21,7 @@
 
 ---
 
-## 🚀 Featured Projects
+##  Projects
 
 ### 🔹 [SuperResAI – Image Super-Resolution](https://github.com/chaklader17/SuperResAI)
 Deep learning pipeline (SRCNN + ESPCN) for reconstructing high-resolution images  
@@ -53,7 +53,7 @@ Web-based platform for:
 Built with Django/Node.js + SQL + modern frontend frameworks.
 ---
 
-## 🛠️ Languages & Tools
+##  Languages & Tools
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
@@ -66,7 +66,7 @@ Built with Django/Node.js + SQL + modern frontend frameworks.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50"/>
 </p>
 
-### ➕ Additional Tools  
+###  Additional Tools  
 TensorFlow • PyTorch • FFmpeg • SQL/NoSQL • Bash • OpenCV • Postman  
 
 
